@@ -1,6 +1,6 @@
-# FacialRecognitionApp
+# Face Detector App
 
-A Python facial recognition application, brought to you by TechDreams Innovations Labs. Enjoy!
+A Python face detection application, brought to you by TechDreams Innovations Labs. Enjoy!
 
 ## Prerequisites
 
