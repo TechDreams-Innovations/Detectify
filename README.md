@@ -1,9 +1,8 @@
 # FacialRecognitionApp
 
-A Python facial recognition application, brought to you by TechDreams Innovations Labs!
+A Python facial recognition application, brought to you by TechDreams Innovations Labs. Enjoy!
 
-## Instructions for Usage
+## Prerequisites
 
-1. Download the `requirements.txt` file.
-2. Install all of your dependencies with `(venv) $ python -m pip install -r requirements.txt`.
-3. Run `python3 FacialRecognitionApp.py` in a terminal if you have Python 3.
+1. Install OpenCV. Instructions on how to do so are available [here](https://pyimagesearch.com/2017/09/04/raspbian-stretch-install-opencv-3-python-on-your-raspberry-pi/).
+2. Install numpy with `pip install numpy`.
