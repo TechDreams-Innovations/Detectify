@@ -1,4 +1,4 @@
-# Face Detector App
+# Detectify
 
 A Python face detection application, brought to you by TechDreams Innovations Labs. Enjoy!
 
